@@ -27,6 +27,16 @@
 </p>
 
 ---
+### 🛠️ Tools I Use
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" alt="Netlify" width="80" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Vercel_logo_black.svg" alt="Vercel" width="80" height="40"/>
+</p>
+
+---
 
 ### 📊 GitHub Stats
 <p align="left">
