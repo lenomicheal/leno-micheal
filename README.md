@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 - 💻 I love building interactive and responsive frontend projects.
 - 🌱 I’m currently expanding my knowledge in backend technologies.
-- 📫 Reach me at: **lenomicheal@gmail.com**
+- 📫 Reach me at: **lenomicheal8@gmail.com**
 
 ---
 
