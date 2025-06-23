@@ -40,7 +40,7 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lenomicheal&show_icons=true&theme=radical" alt="Leno's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hareesh&show_icons=true&theme=radical" alt="Leno's GitHub stats" />
 </p>
 
 ---
