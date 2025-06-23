@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leno Micheal</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lenomicheal/" target="_blank">
