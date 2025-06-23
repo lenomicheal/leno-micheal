@@ -36,12 +36,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Vercel_logo_black.svg" alt="Vercel" width="80" height="40"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hareesh&show_icons=true&theme=radical" alt="Leno's GitHub stats" />
-</p>
 
 ---
 
