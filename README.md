@@ -10,6 +10,7 @@
 ---
 
 ### 👨‍💻 About Me
+- 🧑‍💻I have completed my bachelor's degree in BCA at American college,Madurai
 - 💻 I love building interactive and responsive frontend projects.
 - 🌱 I’m currently expanding my knowledge in backend technologies.
 - 📫 Reach me at: **lenomicheal8@gmail.com**
@@ -41,4 +42,5 @@
 
 ### 🌐 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/lenomicheal/)
-- 🌍 Portfolio coming soon!
+- 📞 +917010564134
+- 📧 **lenomicheal8@gmail.com**
